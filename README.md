@@ -1,4 +1,4 @@
-# Raptor-like full-flow staged-combustion model
+# Raptor 2 Full-Flow Staged-Combustion Model
 
 This repository is a detailed steady-state **FullFlow** example for a simplified Raptor-like full-flow staged-combustion (FFSC) methane/oxygen engine.
 
